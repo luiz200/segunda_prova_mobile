@@ -2,34 +2,7 @@
 
 Segunda prova de mobile.
 
-UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
-ESCOLA AGRÍCOLA DE JUNDIAÍ
-Disciplina: Programação para Dispositivos Móveis
-Professor: Taniro Rodrigues
-Grupo: ______________________________________________________________________
-Data: 02 de dezembro de 2023 Nota: _____ de 10,0 pontos
-Segunda Avaliação
-INSTRUÇÕES:
-a) A avaliação é em grupo de até 2 estudantes.
-b) Crie um projeto no github (ou similar) para enviar o seu código de resposta. Se necessário
-adicione comentários no código para explicar ou justificar sua resposta. Recomenda-se a criação de
-um repositório privado. Caso o repositório seja público o grupo assume as consequências de
-qualquer cópia não autorizada de seu repositório.
-c) Grave um vídeo APONTANDO no código as suas respostas. (Exemplo: a solução da questão 1
-está nas linhas...., a solução da questão 2 está no arquivo....). A gravação do vídeo é obrigatória e a
-correção da questão está condicionada ao conteúdo do vídeo. É necessário apresentar o aplicativo
-sendo EXECUTADO. O vídeo pode ter no MÁXIMO 2 minutos.
-d) Escolha o tema da sua prova através do Link abaixo. Os temas devem ser únicos entre os
-estudantes. Coloque seu nome ao lado do tema que você escolheu para que os colegas saibam
-quais temas estão disponíveis.
-https://docs.google.com/spreadsheets/d/1W3q_dMh7P2jA91A9C32W5VyV_gAMZTaUl61p1PXDKHM
-/edit?usp=sharing
-e) Defina os atributos do seu tema. Cada tema deve ser especificado como uma data class com
-pelo menos 6 atributos (sejam criativos(as))
-e) Envie o link do vídeo (youtube ou drive) e o link do projeto no github para a atividade no
-SIGAA.
-f) A prova vale 10,0 e deve ser enviada até o dia 02/12/2023 às 23:59.
-QUESTÕES:
+##QUESTÕES:
 1) Crie o aplicativo “segunda_prova” que deve funcionar para dispositivos Android ou iOS. Crie a
 Widget TelaHome que configura um Widget MaterialApp. (0,5 ponto)
 2) Defina a data class do seu tema. Lembre-se de criar pelo menos 6 atributos. Use pelo menos 2
